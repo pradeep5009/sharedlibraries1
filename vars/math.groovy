@@ -6,7 +6,7 @@ def subtract(a,b)
 {
    echo "This subtraction result of ${a} and {b} is ${a-b}"
 }
-de multiply(a,b)
+de multiple(a,b)
 {
    echo "This product of ${a} and {b} is ${a*b}"
 }
